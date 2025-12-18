@@ -1,6 +1,13 @@
-# Social Media Post Scheduler
+# SocialQueue 📱
 
-Schedule and post to multiple social media platforms (Twitter, LinkedIn, Mastodon) from one place. Perfect for content creators and marketers.
+> **Social Media Post Scheduler** - Schedule and post to multiple social media platforms (Twitter, LinkedIn, Mastodon) from one place. Perfect for content creators and marketers.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/SocialQueue)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/SocialQueue?style=social)](https://github.com/yksanjo/SocialQueue)
+
+**SocialQueue** simplifies social media management by letting you schedule posts across multiple platforms from one tool. Save time, maintain consistency, and grow your audience with automated posting.
 
 ## Features
 
